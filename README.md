@@ -9,9 +9,7 @@ This package accompanies **Heterogeneous Cellular Base Station Deployment Optimi
 
 The publisher confirmed authorization to publicly distribute the fixed POI and derived-route data. Generated/proxy corridors are not measured UAV trajectories, and simulated existing stations are not operator records. See `DATA.md`, `THIRD_PARTY_NOTICES.md` and `LICENSE_STATUS.md`. No new project-wide open-source license is assigned.
 
-## Download and extract
-
-[Download AirHERO v1.0 ZIP (12.48 MiB)]
+## Extract
 
 This repository distributes the reproduction code as a ZIP archive. Download and
 extract it, then open the extracted `AirHERO` directory before running the
