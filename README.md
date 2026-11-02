@@ -11,7 +11,7 @@ The publisher confirmed authorization to publicly distribute the fixed POI and d
 
 ## Download and extract
 
-[Download AirHERO v1.0 ZIP (12.48 MiB)](https://raw.githubusercontent.com/NetworkCommunication/Heterogeneous Cellular Base Station Deployment Optimization for Fixed Flight Corridors/main/AirHERO_paper_reproduction_public_v1.0.zip)
+[Download AirHERO v1.0 ZIP (12.48 MiB)]
 
 This repository distributes the reproduction code as a ZIP archive. Download and
 extract it, then open the extracted `AirHERO` directory before running the
